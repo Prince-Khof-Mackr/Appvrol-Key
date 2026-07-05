@@ -1,1 +1,2 @@
-.
+.mine
+PRINCE-PAID-KEY-10872|2027-07-04
